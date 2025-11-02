@@ -1,4 +1,4 @@
-# Active Directory Simulation – CyberTech Solutions
+# Active Directory Simulation – EMATECH
 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **EMATECH**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
