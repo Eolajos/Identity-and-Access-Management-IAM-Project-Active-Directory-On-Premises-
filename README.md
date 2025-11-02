@@ -10,7 +10,7 @@ This project is the deployment of a Windows Server Domain Controller (Active Dir
 
 - 1 x Windows Server (AD Domain Controller)
 - 1 x Windows 8 Client PC (Sales Department)
-- 1 x Windows 7 Client PC (IT Department)
+- 1 x Windows 8  Client PC (IT Department)
 
 ---
 
@@ -41,7 +41,7 @@ Server  PC1 (Win 8)   PC2 (Win XP)
 |---------------|----------------|-----------------------------|
 | Windows Server| 10.0.2.15  | AD Domain Controller (DC)   |
 | Windows 8 PC  | DHCP    | Client (Accounts)           |
-| Windows XP PC | DHCP    | Legacy Client               |
+| Windows 8 PC | DHCP    | Legacy Client               |
 
 ---
 
